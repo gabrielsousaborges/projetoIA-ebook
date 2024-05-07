@@ -16,14 +16,14 @@
 Projeto com o objetivo de gerar um ebook digital e Podcast com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/gabrielsousaborges/projetoIA-ebook/blob/main/output/EbookAWS-Gabriel-output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/gabrielsousaborges/projetoIA-ebook-podcast/blob/main/output/EbookAWS-Gabriel-output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 <a href="https://github.com/gabrielsousaborges/projetoIA-ebook-podcast/blob/main/output/ElevenLabs_podcast.mp3" title="Listen to MP3"> 📀Clique aqui para ouvir</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [ElevenLabs](https://beta.elevenlabs.io/)
 
 ## 🧠 Prompts
 
