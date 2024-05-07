@@ -16,7 +16,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/gabrielsousaborges/output/EbookAWS-Gabriel-output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/gabrielsousaborges/projetoIA-ebook/blob/main/output/EbookAWS-Gabriel-output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
