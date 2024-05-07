@@ -8,15 +8,16 @@
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
+# Projeto EBOOK/PODCAST Gerado por I.A.s
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
+Projeto com o objetivo de gerar um ebook digital e Podcast com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
 <a href="https://github.com/gabrielsousaborges/projetoIA-ebook/blob/main/output/EbookAWS-Gabriel-output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/gabrielsousaborges/projetoIA-ebook-podcast/blob/main/output/ElevenLabs_podcast.mp3" title="Listen to MP3"> 📀Clique aqui para ouvir</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -45,15 +46,17 @@ Midjourney：
 
 - Conteúdo gerado via ChatGPT
 - Imagens geradas via MidJourney
+- Roteiro gerado via chatgpt
+- Audio gerado pela elevenLabs
 
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- ebook/podcast gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, capcut.
 
 ## 👨‍💻 Expert
 
