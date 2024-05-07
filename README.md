@@ -34,6 +34,7 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de AWS, o ebook é do nicho de cloud e o subnicho é de AWS, o título deve ser épico e curto, e tenha tema para iniciantes em AWS, me liste 5 variações de títulos                                                        |
 | conteúdo | Faça um texto para ebook , com foco em AWS, listando os principais serviços. Explique sempre de uma maneira simples Deixe o texto enxuto, sempre deixe um título sugestivo por tópico |
+| audio | ElevenLabs |
 
 
 Midjourney：
@@ -44,10 +45,9 @@ Midjourney：
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
+- Conteúdo e Roteiro gerado via ChatGPT
 - Imagens geradas via MidJourney
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
+- Audio gerado pela ElevenLabs
 
 ## 📚 Materiais
 
